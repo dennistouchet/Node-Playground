@@ -1,0 +1,19 @@
+{
+  "name": "learnmenode",
+  "version": "1.0.0",
+  "description": "learn you node walkthrough",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennistouchet/Node-Playground/learnyounode/learnmenode.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial"
+  ],
+  "author": "dennistouchet",
+  "license": "ISC"
+}
